@@ -34,7 +34,10 @@ Installation and run instructions
         c. Run the following command to run tests
 
   	          npm test
+		  
+ <img src="FrontierAutomationTestProject/reports/TestResults_Spec.JPG" alt="Test Results-spec"/>
 
         d. Run the following command to generate html report 
    	
                 npm generateReport
+<img src="FrontierAutomationTestProject/reports/TestResults_htmlReport.JPG" alt="Test Results-html"/>
