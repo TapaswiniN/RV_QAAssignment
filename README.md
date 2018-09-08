@@ -37,7 +37,8 @@ Installation and run instructions
 		  
  <img src="FrontierAutomationTestProject/reports/TestResults_Spec.JPG" alt="Test Results-spec"/>
 
-        d. Run the following command to generate html report 
+        d. Run the following command to generate html report @ FrontierAutomationTestProject/mochawesome-report.html
    	
                 npm generateReport
+	  
 <img src="FrontierAutomationTestProject/reports/TestResults_htmlReport.JPG" alt="Test Results-html"/>
