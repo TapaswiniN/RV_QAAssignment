@@ -24,6 +24,8 @@ Installation and run instructions
 
           c. This automation test suite also uses Mocha, Chai, Spec reported and  wdio mocha awesome report generator. 
              The packages are included in the code base, so no need to install them.
+	     
+	  d. webdriverio configured to run tests in firefox and chrome browsers. please install them before running tests.
 
 #2. Running Tests
         
